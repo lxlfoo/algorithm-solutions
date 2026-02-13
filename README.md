@@ -1,2 +1,1 @@
-# algorithm-solutions
-PS
+# **Baekjoon Online Judge Coding Test**
